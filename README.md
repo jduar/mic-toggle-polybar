@@ -35,3 +35,4 @@ click-left = ~/.config/polybar/mic-toggle.sh --click
 
 And this is how it looks like:
 
+![Demo](example.gif)
