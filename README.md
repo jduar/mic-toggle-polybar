@@ -33,6 +33,6 @@ exec = ~/.config/polybar/mic-toggle.sh  
 click-left = ~/.config/polybar/mic-toggle.sh --click
 ```
 
-And this is how it looks like:
+And this is what it looks like:
 
 ![Demo](example.gif)
